@@ -19,9 +19,23 @@ body{
   height: var(--boxheight);
 }
 
+
 .item{
   border: 2px solid red;
   background-color: white;
 }
+
+img {
+    width: 140px;
+    height: 140px;
+}
+
+#item1{
+  background-image:url(https://compass-ssl.xbox.com/assets/00/0d/000d862c-294b-4ded-bef9-27b1a8f1bd6e.jpg?n=NBA-2K21_GLP-Page-Hero-1084_Mamba-Forever_1920x1080.jpg);
+}
+
+
+
+
 
 
